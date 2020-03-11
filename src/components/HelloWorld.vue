@@ -5,6 +5,7 @@
     <h2>基于 Vue.js 进行快速开发的完整系统，只适用于快速原型开发。</h2>
     <h2>user.name</h2>
     <h2>user.email</h2>
+    <h2>user.phone</h2>
   </div>
 </template>
 
